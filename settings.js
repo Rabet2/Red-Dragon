@@ -33,7 +33,7 @@ global.vcardowner = ['+22507235159'] // owner number
 global.ownername = "😎winter" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "Ivory coast, abidjan" // location
+global.location = "Ivory coast, abidjan, dialogue" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
